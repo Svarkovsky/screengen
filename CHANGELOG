@@ -69,3 +69,6 @@
 
 2019-02-17 (1.11)
 * Fixed offsetBegin and offsetEnd parameters
+
+2025-02-25 (1.11a)
+* Adaptation for Qt6.
