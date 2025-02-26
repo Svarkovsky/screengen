@@ -9,9 +9,6 @@
 
 **ScreenGen** is a simple command-line utility in C++ and Qt for creating screenlists (screenshot galleries) and individual screenshots from video files.
 
-![ScreenGen скринлист пример](docs/screengen_example.jpg)
-*Example of a screenlist created by ScreenGen*
-
 ### Description
 
 ScreenGen uses FFmpeg for video decoding and Qt for creating graphical output. The utility is designed for Linux users who need to quickly create previews of video files in the form of screenlists or individual frames directly from the command line.
