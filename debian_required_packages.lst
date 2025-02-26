@@ -1,0 +1,2 @@
+apt-get install --no-install-recommends libavcodec57 libavformat57 libavutil54 libswscale4 qmake6 
+apt-get install --no-install-recommends libavformat-dev libavcodec-dev libavutil-dev libswscale-dev libpng-dev qt6-base-dev
