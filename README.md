@@ -33,9 +33,15 @@ ScreenGen использует FFmpeg для декодирования виде
 
 ## Запуск и параметры командной строки
 
-Для запуска ScreenGen необходимо открыть терминал и выполнить команду `screengen`, указав в качестве первого параметра путь к видеофайлу.  Все остальные параметры задаются в виде опций командной строки.
+ScreenGen запускается из консоли, а так же из контекстного меню файлового менеджера, созданный скринлист располагается в одном каталоге с видео файлом и с тем же именем файла.
 
-`screengen video.mp4 [опции]`
+![Example](https://raw.githubusercontent.com/Svarkovsky/screengen/refs/heads/main/screengen_003.png)
+
+Для запуска ScreenGen необходимо открыть терминал и выполнить команду `screengen`, указав в качестве первого параметра путь к видеофайлу.  Все остальные параметры задаются в виде опций командной строки или используется наборов параметров в конфигурационном файле `~/.config/screengen/screengen.conf`.
+
+`screengen video.mp4 [parameters]`
+или
+`screengen name_file.avi --preset s5x4 --offsetBegin "00:00:30" --offsetEnd "00:00:10" --listBorder 4`
 
 ## Примеры
 ![Example](https://raw.githubusercontent.com/Svarkovsky/screengen/refs/heads/main/anrdou.jpg)
