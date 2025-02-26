@@ -35,20 +35,20 @@ ScreenGen использует FFmpeg для декодирования виде
 
 Для запуска ScreenGen необходимо открыть терминал и выполнить команду `screengen`, указав в качестве первого параметра путь к видеофайлу.  Все остальные параметры задаются в виде опций командной строки.
 
-screengen video.mp4 [опции]
+`screengen video.mp4 [опции]`
 
-Example video - https://youtu.be/FGfhkvHVTcQ
-
+## Примеры
 ![Example](https://raw.githubusercontent.com/Svarkovsky/screengen/refs/heads/main/anrdou.jpg)
 ![Example](https://raw.githubusercontent.com/Svarkovsky/screengen/refs/heads/main/screengen_008.jpg)
 
+## Параметры
 ![Parameters](https://raw.githubusercontent.com/Svarkovsky/screengen/refs/heads/main/screengen_002.png)
 
 ## Зависимости
 FFmpeg: Необходимы библиотеки FFmpeg (ffmpeg-libs или аналогичный пакет в вашем дистрибутиве) для декодирования видео.
 Qt: Требуется Qt 6 (или Qt 5, в зависимости от версии ScreenGen) для графического интерфейса и отрисовки изображений.
 
-Сборка
+## Сборка
 Для сборки ScreenGen из исходного кода вам понадобятся:
 
 Компилятор C++ (например, g++)
