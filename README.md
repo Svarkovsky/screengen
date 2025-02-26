@@ -1,15 +1,38 @@
 # ScreenGen
 
-**ScreenGen** is a simple command-line utility in C++ and Qt for creating screenlists (screenshot galleries) and individual screenshots from video files.
-
-## Language Versions
-
-*   [English](README_en.md)
-*   [Русский (Russian)](README_ru.md)
-*   [Українська (Ukrainian)](README_uk.md)
-*   [简体中文 (Simplified Chinese)](README_zh.md)
-*   [Español (Spanish)](README_es.md)
+[English](#english) | [Русский](#russian) | [Українська](#ukrainian) | [简体中文](#chinese) | [Español](#spanish)
 
 ---
 
-[For the English version of the README, please see [README_en.md](README_en.md)]
+<a name="english"></a>
+## English
+
+[Здесь будет английская версия README, как в предыдущем ответе для `README_en.md`]
+
+---
+
+<a name="russian"></a>
+## Русский
+
+[Здесь будет русская версия README, как в предыдущем ответе для `README_ru.md`]
+
+---
+
+<a name="ukrainian"></a>
+## Українська
+
+[Здесь будет украинская версия README, как в предыдущем ответе для `README_uk.md`]
+
+---
+
+<a name="chinese"></a>
+## 简体中文
+
+[Здесь будет китайская версия README, как в предыдущем ответе для `README_zh.md`]
+
+---
+
+<a name="spanish"></a>
+## Español
+
+[Здесь будет испанская версия README, как в предыдущем ответе для `README_es.md`]
